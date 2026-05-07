@@ -2,7 +2,7 @@
 
 **Authors**:
 
-Kathleen (Katie) Chang [1, 2, *], Qile Su[1, 2, ∗], Peter Groszkowski [3], Tyler LeBlond [4], and Shruti Puri [1, 2]
+Kathleen (Katie) Chang [1, 2, *], Qile Su [1, 2, *], Peter Groszkowski [3], Tyler LeBlond [4], and Shruti Puri [1, 2]
 
 **Affiliations**:
 
