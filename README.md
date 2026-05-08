@@ -28,3 +28,7 @@ This is the data repository for "Taming coherent noise with teleportation."
     - qutip=4.7.3
     - jupyter=1.0.*
 - For Fig 4:
+    - python=3.11.*
+    - numpy=1.25.*
+    - matplotlib=3.7.*
+    - jupyter=1.0.*
