@@ -1,4 +1,5 @@
 # Data for "Taming coherent noise with teleportation"
+[![DOI](https://zenodo.org/badge/1232368529.svg)](https://doi.org/10.5281/zenodo.23424699)
 
 **Authors**:
 
